@@ -49,7 +49,11 @@ Or use `build.bat`.
 
 ## Bugs / requests
 Open an [issue](../../issues) and attach `GhostMode.log` (next to the .asi).
-**I build custom mods on request** (powers, characters, scenes, tools for YouTube creators). Ask on my [discussion board](https://github.com/pavanpotluri27-sketch/pavanpotluri27-sketch/discussions).
+**I build custom mods on request** (powers, characters, scenes, tools for YouTube creators). [Open a Ko-fi commission](https://ko-fi.com/gamelover77511/commissions) or ask on my [discussion board](https://github.com/pavanpotluri27-sketch/pavanpotluri27-sketch/discussions).
+
+## Support
+**[☕ Buy me a coffee on Ko-fi](https://ko-fi.com/gamelover77511)** - every coffee goes into new free mods.
+Want a custom mod, sky look or camera tool for your channel? **[Open a commission on Ko-fi](https://ko-fi.com/gamelover77511/commissions)**.
 
 ## More from me
 Moon Glow sky mod on [Nexus](https://www.nexusmods.com/reddeadredemption2/mods/11046) · videos on [YouTube](https://www.youtube.com/@Bounty_Bandit_Gaming)
